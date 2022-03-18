@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!,learning git" );
-        system.out.println( "new line added and new branch created ");
+        system.out.println( "new line added ");
     }
 }    
                                                                                                                             }    
